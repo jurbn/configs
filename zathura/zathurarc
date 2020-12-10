@@ -1,0 +1,6 @@
+set selection-clipboard clipboard
+set recolor
+set default-bg rgba(35,39,39,0.9)
+set recolor-keephue
+set recolor-lightcolor rgba(35,39,39,0)
+#set recolor-darkcolor "#232727"
